@@ -5,7 +5,6 @@ Software Engineer
 -----------------
 
 <ul align="left">
-  <li>🌍 I'm based in Cluj-Napoca, Romania</li>
   <li>🖥️ See my portfolio at <a href="http://lolotech.io" target="_blank" rel="noreferrer">lolotech.io</a></li>
   <li>
     <a href="https://www.linkedin.com/in/lucian-olosutean-71831653" target="_blank" rel="noreferrer">
@@ -28,6 +27,7 @@ Software Engineer
     </a>
   </li>
   <li>✉️ You can contact me at <a href="mailto:lucian.olosutean@yahoo.com">lucian.olosutean@yahoo.com</a></li>
+  <li>🌍 I'm based in Cluj-Napoca, Romania</li>
 </ul>
 
 
