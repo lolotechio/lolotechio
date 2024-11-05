@@ -58,12 +58,20 @@ src="https://img.shields.io/github/followers/lolotechio?logo=github&style=for-th
 ![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=flat) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Tools**:  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab) 
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea) 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **Soft Skills**: Strong communication, analytical skills, quick learner, solution-oriented, teamwork, and dedication to high standards.
 
