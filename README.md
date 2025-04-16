@@ -26,7 +26,7 @@ Software Engineer
       Check out my profile on GitHub
     </a>
   </li>
-  <li>✉️ You can contact me at <a href="mailto:lucian.olosutean@yahoo.com">lucian.olosutean@yahoo.com</a></li>
+  <li>✉️ You can contact me at <a href="mailto:lolotechio@gmail.com">lolotechio@gmail.com</a></li>
   <li>🌍 I'm based in Cluj-Napoca, Romania</li>
 </ul>
 
