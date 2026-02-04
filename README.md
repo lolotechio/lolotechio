@@ -48,6 +48,7 @@ src="https://img.shields.io/github/followers/lolotechio?logo=github&style=for-th
 * **DevOps & Database Management:** Proficient in Docker and PostgreSQL, with hands-on experience in containerized application deployment and database optimization.
 * **Mentorship & Education:** I enjoy guiding others, providing mentorship to teammates and interns, and have served as an Associate Professor at the Technical University of Cluj-Napoca, teaching software engineering fundamentals since 2018.
 * **Software Design & Architecture:** Skilled in designing robust, scalable and fault-tolerant systems.
+* **AI & Automation:** Cursor, GitHub Copilot Agent, Custom GPTs, Prompt Engineering, AI-assisted application development, Workflow Automation
 
 
 ### 🛠 Key Skills
