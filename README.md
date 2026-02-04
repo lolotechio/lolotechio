@@ -31,7 +31,11 @@ Software Engineer
 </ul>
 
 
-Results-driven Software Engineer with extensive experience in developing robust applications across diverse industries since 2013. Specializing in back-end development with expertise in Java, Spring Boot, RabbitMQ, Redis, and PostgreSQL. Proven ability to quickly grasp complex business requirements and translate them into scalable solutions. Experienced with a range of technologies, including Nest.js and React, showcasing adaptability and continuous learning. Adept at working in Agile environments and ensuring high-quality deliverables through thorough code review and testing.
+Results-driven Software Engineer with 13+ years of experience designing and building scalable applications across diverse industries. Specialized in backend development with strong expertise in Java, Spring Boot, RabbitMQ, Redis, and PostgreSQL.
+
+Passionate about Artificial Intelligence and its role in modern software engineering. I integrate AI tools such as Cursor, GitHub Copilot Agent, and custom GPTs into my day-to-day work to improve code quality, accelerate development, and automate tasks. Experienced in prompt engineering and in developing applications with AI assistance, both professionally and through personal projects.
+
+Known for quickly understanding business requirements, delivering robust solutions under pressure, and sharing knowledge as both a mentor and university teaching assistant. I combine deep technical expertise with AI-assisted workflows to drive innovation and efficiency.
 
 <a href="https://www.github.com/lolotechio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lolotechio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
